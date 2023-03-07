@@ -1,7 +1,7 @@
 # Toss-Game
 ## A simple game of toss, with cool audio effects.
 ### This project helped me learn about :
-- [ x ]( Javascript export moduules)  
+- [x] Javascript Export Modules
 - [ x ] (Audio Effects)
 -[ x ] (Spread Operator)
 -[x] (SetTimeout Method )
